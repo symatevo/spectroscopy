@@ -1,7 +1,5 @@
 # Absorption Spectroscopy Analysis
 
-![Absorption Spectroscopy]([absorption_spectroscopy_image.jpg](https://cdn.shopify.com/s/files/1/0823/0287/files/Optical-Spectroscopy-Transmittance.svg?v=1676996706))
-
 ## Introduction
 
 This repository contains Python code for the analysis of Absorption Spectroscopy data obtained during a class on Absorption Spectroscopy of DNA in SSC (Saline-Sodium Citrate) solution. Absorption spectroscopy is a technique that measures the absorption of light by a substance as a function of wavelength or frequency. In this analysis, we will focus on temperature-dependent absorption data.
